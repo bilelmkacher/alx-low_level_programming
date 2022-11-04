@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <main.h>
+#include "main.h"
 /**
- * main - Entry point
+ * main - Entry point print the name of the program
  *
  * @argc: Counts the number of parameters that go into main
  * @argv: Pointer of array of pointers containing strings entering main
